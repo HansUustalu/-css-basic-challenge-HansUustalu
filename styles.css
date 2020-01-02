@@ -112,10 +112,18 @@ header {
 
 /* Work Experience
 ------------------------------------*/
+.work-experience {
+  background: red;
+  color: ##6beb34;
+width: 200px;
+height: 100px;
+color:#6beb34;
+display: inline-block;
 
-
-
-
+}
+.top{
+  margin-top: 35px;
+}
 
 /* Education
 ------------------------------------*/
